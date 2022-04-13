@@ -151,7 +151,7 @@ namespace EFCoreHomeWorkAddCustomer
                 newCustomer.Address= customerAddress;
                 newCustomer.City= customerCity;
                 newCustomer.Country= customerCountry;
-                newCustomer.CustomerId = "Miki";
+                newCustomer.CustomerId = Console.ReadLine();
 
 
                db.Customers.Add(newCustomer);
