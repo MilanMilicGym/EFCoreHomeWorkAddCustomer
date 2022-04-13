@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreHomeWorkAddCustomer", "EFCoreHomeWorkAddCustomer\EFCoreHomeWorkAddCustomer.csproj", "{D513600F-5038-4628-A205-334A5B6A62EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D513600F-5038-4628-A205-334A5B6A62EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D513600F-5038-4628-A205-334A5B6A62EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D513600F-5038-4628-A205-334A5B6A62EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D513600F-5038-4628-A205-334A5B6A62EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51AC9DCA-8D3A-410C-A129-F7946B29E5AB}
+	EndGlobalSection
+EndGlobal
